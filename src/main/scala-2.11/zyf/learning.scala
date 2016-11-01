@@ -98,5 +98,22 @@ object Learning {
 
     println(Datastructures.reverse(List(1, 2, 3)))
 
+    var a = 1
+    a += 1
+    a = a + 2
+
+    import scala.math._
+    sqrt(2)
+
+    val str = "aaaa"
+
+    "adsfg"(4)
+
+    str.charAt(1)
+
+    str.apply(4)
+
+    "as" * 3
+
   }
 }
