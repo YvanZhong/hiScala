@@ -6,6 +6,6 @@ package zyf
 object TestThread {
   def main(args: Array[String]) {
     val t:Thread = Thread.currentThread()
-    println(s"${t.getName}.gi")
+    println(s"${t.getName}")
   }
 }
